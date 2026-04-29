@@ -80,3 +80,35 @@ body {
   background: var(--primary);
   color:var(--secondary);
 }
+
+/* 폼 요소 */
+.hero
+{
+  background: var(--hero);
+}
+form
+{
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+form .field{
+  height: calc(var(--base-unit) * 2);
+  background: var(--white);
+  border-radius:3px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  color:var(--light--gray);
+}
+form .field input
+{
+  font-style: italic;
+  color:var(--black);
+
+}
+form .field input::placeholder
+{
+  color: var(--super--light--gray);
+}
