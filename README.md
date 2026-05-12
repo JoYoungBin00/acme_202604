@@ -148,6 +148,7 @@ gantt
 
 ## 4. 프로젝트 구조
 
+```
 est_fe_13_1st_project/
 ├── css/
 │ ├── common.css
@@ -165,6 +166,7 @@ est_fe_13_1st_project/
 ├── about.html
 ├── index.html
 └── README.md
+```
 
 ---
 
