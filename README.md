@@ -70,28 +70,7 @@
 - [ ] 코드검수
 - [ ] 배포
 
-```mermaid
-gantt
-    title Milestones (예시)
-    dateFormat  YYYY-MM-DD
-    excludes    weekends
-
-    section 기획/설계
-    요구사항·IA 정리           :a1, 2025-08-18, 3d
-    Figma 와이어·디자인        :a2, after a1, 3d
-
-    section 구현(핵심)
-    Supabase 스키마·RLS        :b1, 2025-08-25, 3d
-    목록/상세·업로드           :b2, after b1, 6d
-    관리자 Auth + CRUD         :b3, after b2, 4d
-
-    section 품질
-    SEO/OG·성능·접근성         :c1, 2025-09-07, 3d
-    테스트(E2E)·에러관측       :c2, after c1, 3d
-
-    section 릴리스
-    CI/CD 구성·문서화·시연자료 :d1, 2025-09-12, 2d
-```
+![배너](./images/logo.png)
 
 ### 1.4 주요 기능
 
