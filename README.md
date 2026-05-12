@@ -73,7 +73,6 @@
 [![gantt](./images/gant.png)]
 
 <!--
-
 ```mermaid
 gantt
     title 프로젝트 마일스톤 일정
@@ -100,8 +99,9 @@ gantt
     section 최종 개발
     컬러 검수 및 배포 :f1, 2026-05-09, 2d
 ```
-
 -->
+
+[![gantt](./public/readme/gant.png)]
 
 ### 1.4 주요 기능
 
@@ -203,5 +203,5 @@ est_fe_13_1st_project/
 
 <!-- /public/readme/ 폴더에 썸네일 PNG를 넣고 경로를 맞춘다 -->
 
-[![기획서 미리보기](./public/readme/figma-slides-thumb.png)](https://www.figma.com/file/XXXX "피그마 슬라이드로 이동")
-[![디자인 미리보기](./public/readme/figma-slides-thumb.png)](https://www.figma.com/file/YYYY "피그마 디자인으로 이동")
+[![발표자료 미리보기](./public/readme/figma-slides.png)](https://www.figma.com/slides/3fGwqaATJbrSOLdC2unmDS "피그마 슬라이드로 이동")
+[![디자인 미리보기](./public/readme/figma-design.png)](https://www.figma.com/design/P2V2amlhfA6swbLa8wxyK0/5%ED%8C%80-%EC%A4%91%EA%B3%A0%EB%89%B4%EB%B9%84?t=jE309G4VdmHFIDVP-0 "피그마 디자인으로 이동")
